@@ -1,0 +1,1 @@
+Please refer to the [main repository](https://github.com/siemens/ngx-datatable) for contributing.
